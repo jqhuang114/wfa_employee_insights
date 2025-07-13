@@ -16,11 +16,11 @@ The Human Resources (HR) team has reached out to the Data team to investigate pa
 
 The HR team provided a curated dataset of anonymized employee records and asked the Data team to perform an analysis on job satisfaction, compensation, and promotion trends to support talent retention initiatives.
 
-The inspected and cleaned data for this analysis can be found here.
+The inspected and cleaned data for this analysis can be found <a href="data" target="_blank">here</a>.
 
-Targeted SQL queries regarding various business questions can be found here.
+Targeted SQL queries regarding various business questions can be found <a href="sql" target="_blank">here</a>.
 
-An interactive Tableau dashboard used to report and summarize trends can be found here.
+An interactive Tableau dashboard used to report and summarize trends can be found <a href="https://public.tableau.com/views/JobSatisfactionSalaryDashboard/JobSatisfaction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">here</a>.
 
 [Back to Top](#table-of-contents)
 
